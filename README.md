@@ -33,5 +33,3 @@ Generates a conflict-free course plan using **topological sort** (for prerequisi
 - `main.cpp` — C++17 CLI app (MySQL C API)
 - `README.md` — this file
 
-## Resume Bullet
-Built a C++ + MySQL course scheduler that produces conflict-free timetables via topological sort and interval checks, with a CLI to manage courses, prerequisites, and timeslots.
